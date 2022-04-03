@@ -3,12 +3,9 @@
 */
 
 var dog = {
-    name: 'Billy',
-    wantsToPlay: false
+  name: "Rex",
+  wantsToPlay: true,
 };
-
-// WRITE CODE HERE
-
 
 //DO NOT MODIFY BELOW
 console.log(dog.name);
